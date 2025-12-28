@@ -24,6 +24,7 @@ And probably a bit more I'm currently learning :)
 
 - Git
 - CRUD operations, Full-stack integration
+
 I’m particularly interested in Python–Java interoperability and language bindings as I'd like knowing more about it
 
 
