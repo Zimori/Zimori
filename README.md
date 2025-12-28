@@ -7,7 +7,15 @@ I'm a Master’s student in Computer Science
 - APIs and data pipelines
 - New tools, technologies, LLMs...
 
-## Technologies I use
+## What I do
+
+### Languages
+- Python
+- Java
+- C++
+And probably a bit more I'm currently learning :)
+
+### Technologies I use
 
 - Pandas, NumPy, Scikit-learn, SQL...
 
@@ -16,12 +24,8 @@ I'm a Master’s student in Computer Science
 
 - Git
 - CRUD operations, Full-stack integration
+I’m particularly interested in Python–Java interoperability and language bindings as I'd like knowing more about it
 
-### Languages
-- Python
-- Java
-- C++
-And probably a bit more I'm currently learning :)
 
 
 <!---
